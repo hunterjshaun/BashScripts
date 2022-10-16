@@ -15,5 +15,5 @@ sudo firewall-cmd --permanent --list-all
 # Creating index.html to edit web page
 sudo touch /var/www/html/index.html
 
-# Open index file to add custom html
+# Open index file to add your custom html
 sudo vim /var/www/html/index.html
